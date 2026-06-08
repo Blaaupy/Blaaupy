@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm **Blaaupy**, a Web Developer who loves building things, debugging tricky features, and turning ideas into real projects.
+I'm **Blaaupy**, a Web Developer who loves building things and turning ideas into real projects.
 
 🚀 **Check out my first full project:**  
 👉 [**My Portfolio**](https://blaaupy.github.io/My-Portfolio/)  
@@ -11,7 +11,7 @@ Open to remote, hybrid, or on-site opportunities!
 
 ---
 
-## 🧰 Tech I Use (and love)
+## 🧰 Tech I Use
 
 ### **Frontend**
 ✨ HTML • CSS / SCSS • JavaScript • React • TailwindCSS
@@ -34,17 +34,17 @@ I’m currently learning and experimenting with:
 - **Fullstack architecture** (API + database + frontend)
 - **Performance & SEO optimization**
 - **Debugging complex UI/UX issues** (modals, filters, state resets, etc.)
+- **+Developping an app in python
 
 ---
 
 ## 🎉 Fun Facts About Me
 
-- 🐛 I actually enjoy debugging — especially the bugs that _make no logical sense_
-- ⚡ I spent a lot of time optimizing real websites (SEO, performance, accessibility…)
-- 🎨 I like improving UI/UX until everything feels **clean and finished**
-- 🧩 I often refactor code “just because it could be better”
-- 💡 I’m always thinking about new project ideas, and some will end up here soon!
-- 📚 I learn new technologies fast — Prisma, Docker, NestJS, SCSS structuring, React architecture…
+- I like to find the solutions to some problems by myself, it often leads to a better understanding of the project;
+- Spending some time optimizing real websites (SEO, performance, accessibility…);
+- Like improving UI/UX until everything feels **clean and finished** which can be an annoying part about me;
+- Thinking about other to do things I already done, it helps me maintaining my skills and find new ways and some time better ways of doing things;
+- And finaly I really love to learn new things !!!
 
 ---
 
